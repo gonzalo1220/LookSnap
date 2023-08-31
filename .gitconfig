@@ -1,0 +1,6 @@
+[core]
+	editor = code --wait
+	autocrlf = true
+[user]
+	name = camilo_mena
+	email = juan.mena01@uceva.edu.co
