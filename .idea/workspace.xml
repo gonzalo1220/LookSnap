@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="82e8df30-149e-40bc-84b8-9e1d6aad9718" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +25,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/juans/OneDrive/Desktop/LookSnap",
     "node.js.detected.package.eslint": "true",
@@ -49,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1744465440531</updated>
       <workItem from="1744465441811" duration="35000" />
-      <workItem from="1744829555482" duration="307000" />
+      <workItem from="1744829555482" duration="611000" />
     </task>
     <servers />
   </component>
